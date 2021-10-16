@@ -14,9 +14,13 @@ The content of this document is part of the following review paper:
 ![Image of Yaktocat](https://github.com/Altaheri/MI-EEG-Datasets/blob/main/Table%203%20%26%20charts.png)
 
 
-The following figure shows the performance of EEG-based motor imagery (MI) classification reported by the latest deep learning-based articles for all public MI datasets.
+---
+**The following figure shows the performance of EEG-based motor imagery (MI) classification reported by the latest deep learning-based articles for all public MI datasets.**
 ![Image of Yaktocat](https://github.com/Altaheri/MI-EEG-Datasets/blob/main/Performance%20of%20MI%20classification%20reported%20by%20the%20latest%20DL%20studies.png)
 
+**HO:** Hold-out (train: test), **CV:** Cross-validation, **LOSO:** Leave-one-subject-out, **c-sub:** Cross-subject, **sub-d:** Subject-dependent, **sub-i:** Subject-independent, **sb:** subjects, **“(x : y sb)”:** x subjects for training and y subjects for testing
 
+
+---
 For the details, the reader can refer to the above article.
 
