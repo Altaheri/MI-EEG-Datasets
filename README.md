@@ -7,8 +7,7 @@ The document summarizes publicly available MI-EEG datasets released between 2002
 
 The content of this document is part of the following review paper: 
 
-**Altaheri, H., Muhammad, G., Alsulaiman, M. et al. Deep learning techniques for classification of electroencephalogram (EEG) motor imagery (MI) signals: a review. Neural Computing and Applications (2021). https://doi.org/10.1007/s00521-021-06352-5**
-
+**Altaheri, H., Muhammad, G., Alsulaiman, M. et al. Deep learning techniques for classification of electroencephalogram (EEG) motor imagery (MI) signals: a review. Neural Comput & Applic 35, 14681–14722 (2023). https://doi.org/10.1007/s00521-021-06352-5**
 
 ![Image of Yaktocat](https://github.com/Altaheri/MI-EEG-Datasets/blob/main/Table%203%20%26%20charts.png)
 
